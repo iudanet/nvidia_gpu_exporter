@@ -76,6 +76,8 @@ var (
 		"compute_mode":                                        "compute_mode",
 		"utilization.gpu":                                     "utilization.gpu [%]",
 		"utilization.memory":                                  "utilization.memory [%]",
+		"utilization.encoder":                                 "utilization.encoder [%]",
+		"utilization.decoder":                                 "utilization.decoder [%]",
 		"encoder.stats.sessionCount":                          "encoder.stats.sessionCount",
 		"encoder.stats.averageFps":                            "encoder.stats.averageFps",
 		"encoder.stats.averageLatency":                        "encoder.stats.averageLatency",
